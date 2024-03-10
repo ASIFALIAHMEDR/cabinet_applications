@@ -456,7 +456,7 @@ ol {
     }
 
     #cards {
-      list-style: none;
+      list-style: none; /* random*/
       padding-left: 0;
       display: grid;
       grid-template-columns: 1fr;
