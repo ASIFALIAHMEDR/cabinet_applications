@@ -131,9 +131,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: var(--font-primary);
   color: var(--color-body); 
+  background-size: cover;
+  background-image: url('assets/images/slider/bg.png');
   font-weight: var(--p-regular); }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     body {
+      background-image: url('assets/images/slider/bg.png');
       overflow: hidden; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     body {
