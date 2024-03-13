@@ -8325,7 +8325,7 @@ body.template-color-1 {
       height: 70px;
       padding: 0; } }
   .sticky .header-wrapper .logo img {
-    max-width: calc(100% - 10%); }
+    max-width: calc(100% - 15%); }
 
 .logo a {
   display: inline-block; }
@@ -8333,7 +8333,7 @@ body.template-color-1 {
     transition: 0.3s; }
     @media only screen and (max-width: 767px) {
       .logo a img {
-        max-height: 54px; } }
+        max-height: 45px; } }
 
 @media only screen and (max-width: 1199px) {
   .rn-header .header-wrapper.menu-open #sideNav {
