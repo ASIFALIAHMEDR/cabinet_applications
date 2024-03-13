@@ -535,7 +535,7 @@ ol {
     }
 
     .move-up {
-      margin-top: -180px; /* Adjust the value to move it up by the desired amount */
+      margin-top: -60px; /* Adjust the value to move it up by the desired amount */
   }
 
   .card-container-stack {
