@@ -585,8 +585,8 @@ ol {
   }
 
   @media only screen and (max-width: 767px) {
-    #cards {
-      grid-template-columns: 1fr;
+    .card {
+      width: 100%;
     }
   }
   .container_roles {
