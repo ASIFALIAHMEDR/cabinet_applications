@@ -728,6 +728,7 @@ ol {
   }
   .h13 {
     font-size: 1em;
+    text-align: justify;
   }
 
   .popuproles {
@@ -13128,6 +13129,8 @@ div#featured-project-carousel {
 -----------------------------*/
 .rn-portfolio,
 .rn-blog {
+  flex: 1;
+  max-width: calc(90% - 15px); 
   text-align: left;
   padding: 30px;
   position: relative;
@@ -13138,7 +13141,7 @@ div#featured-project-carousel {
   z-index: 1;
   height: 100%;
   transition: 0.5s all ease-in-out;
-  display: inline-block; }
+   }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .rn-portfolio,
     .rn-blog {
