@@ -59,11 +59,11 @@
   --color-body-white: #3c3e41;
   --color-lightn: #000000;
   --color-midgray: #878787;
-  --color-light: #E4E6EA;
+  --color-light: #000000;
   --color-lighter: #CED0D4;
   --color-lightest: #F0F2F5;
   --color-border: #E6E6E6;
-  --color-white: #ffffff;
+  --color-white: #000000;
   --color-white-75: rgba(255, 255, 255, 0.75);
   --color-success: #3EB75E;
   --color-danger: #FF0003;
@@ -141,7 +141,7 @@ body {
 }
 .bg {
   animation:slide 3s ease-in-out infinite alternate;
-  background-image: linear-gradient(-60deg, rgb(23, 24, 22) 50%, #ad3304 50%);
+  background-image: linear-gradient(-60deg, #FFB200 50%, #5F95FE 50%);
   bottom:0;
   left:-50%;
   opacity:.5;
