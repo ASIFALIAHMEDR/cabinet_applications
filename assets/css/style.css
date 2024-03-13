@@ -722,6 +722,9 @@ ol {
     text-decoration: none;
     cursor: pointer;
     transition: all 0.3s ease-out;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
   }
   .button1:hover {
     background: #fa004f;
@@ -792,6 +795,8 @@ ol {
   .card-button {
     position: relative;
     cursor: pointer;
+    align-items: center; /* Center horizontally */
+    text-align: justify; /* Center text */
 }
 
 .card-content1 {
