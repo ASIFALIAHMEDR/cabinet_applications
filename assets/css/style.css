@@ -737,7 +737,7 @@ ol {
     font-size: 1em;
     padding: 8px;
     color: #fff;
-    border: 2px solid #FFD369;
+    border: 2px solid #e46545;
     border-radius: 20px/50px;
     text-decoration: none;
     cursor: pointer;
@@ -747,7 +747,7 @@ ol {
     width: 300px;
   }
   .button1:hover {
-    background: #FFD369;
+    background: #e46545;
   }
   .h13 {
     font-size: 1.5em;
