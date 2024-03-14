@@ -750,8 +750,9 @@ ol {
     background: #FFD369;
   }
   .h13 {
-    font-size: 1em;
-    text-align: center;
+    font-size: 1.5em;
+    text-align: justify;
+    text-align-last: justify;
     margin-bottom: 10px; 
   }
 
