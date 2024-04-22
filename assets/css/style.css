@@ -164,7 +164,7 @@ h1 {
   margin-bottom: -20px;
   animation: pulse 1s infinite alternate;
   position: absolute;
-  top: 20px; /* Adjust this value as needed */
+  top: 20px; 
 }
 
 p {
